@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gianmarco%20Moretti&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Italy%20🇮🇹&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gianmarco%20Moretti&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Consultant%20%7C%20Full-Stack%20Developer%20%7C%20Italy%20🇮🇹&descAlignY=55&descSize=18)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianmarco-moretti-2a6a5811b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giamma92)
@@ -15,12 +15,13 @@
 ```yaml
 name: Gianmarco Moretti
 location: Italy 🇮🇹
-role: Full-Stack Software Developer
-company: DoIT
+role: IT Consultant
+company: DOIT Consulting
 interests:
   - Building full-stack web apps with modern frameworks
   - Designing scalable APIs (REST & GraphQL)
   - Exploring new frontend technologies
+  - IoT & Home Automation 🏠
   - MotoGP enthusiast 🏍️
 currently_learning: Always exploring the latest in the JS/TS ecosystem
 ```
@@ -37,6 +38,7 @@ currently_learning: Always exploring the latest in the JS/TS ecosystem
 
 #### ⚡ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 #### 🔧 Backend & APIs
@@ -44,10 +46,23 @@ currently_learning: Always exploring the latest in the JS/TS ecosystem
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/-Apollo_Server-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 #### ☁️ Deployment & Tools
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🏠 IoT & Home Automation
+![Home Assistant](https://img.shields.io/badge/-Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
